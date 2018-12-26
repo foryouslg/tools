@@ -1,9 +1,9 @@
 #
 
 __pycache__/
-/.idea/
-/temp/
-/test/
+.idea/
+temp/
+test/
 Desktop.ini
 Thumbs.db
 
